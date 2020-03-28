@@ -3,7 +3,7 @@
 $serverName = "104.41.2.231,1433";
 $databasename = "PruebaMistr";
 $userName = "sa";
-$userPassword = "Hdtingw145eyf73";
+$userPassword = "sss";
 
 shell_exec("sqlcmd.bat $serverName $databasename $userName $userPassword");
 
